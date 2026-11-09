@@ -4,7 +4,6 @@
 Bienvenido/a. Al utilizar el bot Bot prueba, aceptas los siguientes Términos de servicio. Si no estás de acuerdo con alguno de ellos, no debes usar el bot.
 
 1. Uso del bot
-El bot está diseñado para proporcionar [describe la función principal del bot: ejemplo: reproducción de música, gestión de servidores, herramientas de Yu-Gi-Oh!, etc.].
 
 Puedes invitar el bot a tus propios servidores y utilizar sus comandos conforme a su funcionalidad prevista.
 

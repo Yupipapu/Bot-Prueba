@@ -1,0 +1,56 @@
+module.exports = {
+
+  ART_NOT_FOUND: "❌ Carta não encontrada.",
+  ART_NO_IMAGES: "❌ Esta carta não possui artes disponíveis.",
+  ART_ERROR: "❌ Ocorreu um erro inesperado.",
+  ART_TITLE: "Arte",
+  ART_ALL_BUTTON: "Todas",
+  
+  ARCHETYPE_LIST_FAIL: "❌ Falha ao obter a lista de arquétipos.",
+  ARCHETYPE_NOT_FOUND: "❌ Nenhum arquétipo encontrado para: {input}.",
+  ARCHETYPE_NO_CARDS: "❌ Não há cartas disponíveis para este arquétipo.",
+  ARCHETYPE_TITLE: "Arquétipo: {name}",
+  
+  CARD_NOT_FOUND: "❌ Nenhuma carta encontrada com o nome '{input}'.",
+  CARD_NOT_FOUND_RANDOM: "❌ Não foi possível obter uma carta aleatória.",
+
+  NO_DESCRIPTION: "Sem descrição.",
+  TYPE: "Tipo",
+  LEVEL: "Nível",
+  LINK: "Link",
+  RANK: "Rank",
+  ATTRIBUTE: "Atributo",
+  ATK: "ATK",
+  DEF: "DEF",
+  PENDULUM_SCALE: "Escala Pêndulo",
+  LINK_MARKERS: "Marcadores Link",
+  ARCHETYPE: "Arquétipo",
+  GENESYS: "Genesys",
+  CARD_ID: "ID da Carta",
+  CARD_TEXT: "Texto da Carta",
+  PENDULUM_EFFECT: "Efeito Pêndulo",
+
+  DRAW_AGAIN: "🔄",
+  DRAW_ONE: "➕",
+  CLOSE: "❌",
+  STARTING_HAND: "✋ Mão inicial",
+  CARDS_FROM: "Cartas de",
+  INVALID_FILE: "O arquivo deve ser um .ydk válido.",
+  NEED_5_CARDS: "⚠️ O Main Deck deve conter pelo menos 5 cartas.",
+  NO_ACCESS: "❌ Você não pode usar esses botões.",
+  NO_CARDS_LEFT: "⚠️ Não há mais cartas restantes no deck.",
+  ERROR_FILE: "❌ Erro ao ler o arquivo .ydk.",
+
+  DECK_COMPLETE: "Deck completo",
+  MAIN_DECK: "Main Deck",
+  EXTRA_DECK: "Extra Deck",
+  SIDE_DECK: "Side Deck",
+  BUTTON_COMPLETE: "Deck completo",
+  BUTTON_MAIN: "Main",
+  BUTTON_EXTRA: "Extra",
+  BUTTON_SIDE: "Side",
+
+  GEN_FAIL: "Falha ao gerar a imagem do deck.",
+
+  REQUESTED_BY: "Solicitado por {user}",
+};

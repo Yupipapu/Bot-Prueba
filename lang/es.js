@@ -1,0 +1,56 @@
+module.exports = {
+
+  ART_NOT_FOUND: "❌ No se encontró la carta.",
+  ART_NO_IMAGES: "❌ Esta carta no tiene artes disponibles.",
+  ART_ERROR: "❌ Ocurrió un error inesperado.",
+  ART_TITLE: "Arte",
+  ART_ALL_BUTTON: "Todos",
+
+  ARCHETYPE_LIST_FAIL: "❌ No se pudo obtener la lista de arquetipos.",
+  ARCHETYPE_NOT_FOUND: "❌ No se encontró un arquetipo que coincida con: {input}.",
+  ARCHETYPE_NO_CARDS: "❌ No hay cartas disponibles para este arquetipo.",
+  ARCHETYPE_TITLE: "Arquetipo: {name}",
+
+  CARD_NOT_FOUND: "❌ No se encontró ninguna carta con el nombre '{input}'.",
+  CARD_NOT_FOUND_RANDOM: "❌ No se pudo obtener una carta aleatoria.",
+
+  NO_DESCRIPTION: "Sin descripción.",
+  TYPE: "Tipo",
+  LEVEL: "Nivel",
+  LINK: "Enlace",
+  RANK: "Rango",
+  ATTRIBUTE: "Atributo",
+  ATK: "Atk",
+  DEF: "Def",
+  PENDULUM_SCALE: "Escala Pendulum",
+  LINK_MARKERS: "Marcadores Link",
+  ARCHETYPE: "Arquetipo",
+  GENESYS: "Genesys",
+  CARD_ID: "ID de la carta",
+  CARD_TEXT: "Texto de la carta",
+  PENDULUM_EFFECT: "Efecto Pendulum",
+
+  DRAW_AGAIN: "🔄",
+  DRAW_ONE: "➕",
+  CLOSE: "❌",
+  STARTING_HAND: "✋ Mano Inicial",
+  CARDS_FROM: "Cartas de",
+  INVALID_FILE: "El archivo debe ser un .ydk válido.",
+  NEED_5_CARDS: "⚠️ El deck debe tener al menos 5 cartas en el Main Deck.",
+  NO_ACCESS: "❌ No puedes usar estos botones.",
+  NO_CARDS_LEFT: "⚠️ Ya no quedan cartas en el deck.",
+  ERROR_FILE: "❌ Hubo un error al procesar el archivo .ydk.",
+
+  DECK_COMPLETE: "Deck Completo",
+  MAIN_DECK: "Main Deck",
+  EXTRA_DECK: "Extra Deck",
+  SIDE_DECK: "Side Deck",
+  BUTTON_COMPLETE: "Deck Completo",
+  BUTTON_MAIN: "Main",
+  BUTTON_EXTRA: "Extra",
+  BUTTON_SIDE: "Side",
+
+  GEN_FAIL: "❌ No se pudo generar la imagen del deck.",
+
+  REQUESTED_BY: "Solicitado por {user}",
+};

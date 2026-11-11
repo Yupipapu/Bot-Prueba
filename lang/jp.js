@@ -1,0 +1,56 @@
+module.exports = {
+
+  ART_NOT_FOUND: "❌ カードが見つかりません。",
+  ART_NO_IMAGES: "❌ このカードには利用可能なイラストがありません。",
+  ART_ERROR: "❌ 予期しないエラーが発生しました。",
+  ART_TITLE: "イラスト",
+  ART_ALL_BUTTON: "すべて",
+  
+  ARCHETYPE_LIST_FAIL: "❌ アーキタイプ一覧の取得に失敗しました。",
+  ARCHETYPE_NOT_FOUND: "❌ 「{input}」に一致するアーキタイプが見つかりません。",
+  ARCHETYPE_NO_CARDS: "❌ このアーキタイプには利用可能なカードがありません。",
+  ARCHETYPE_TITLE: "アーキタイプ: {name}",
+  
+  CARD_NOT_FOUND: "❌ 「{input}」という名前のカードは見つかりません。",
+  CARD_NOT_FOUND_RANDOM: "❌ ランダムカードの取得に失敗しました。",
+
+  NO_DESCRIPTION: "説明なし。",
+  TYPE: "種類",
+  LEVEL: "レベル",
+  LINK: "リンク",
+  RANK: "ランク",
+  ATTRIBUTE: "属性",
+  ATK: "攻撃力",
+  DEF: "守備力",
+  PENDULUM_SCALE: "ペンデュラムスケール",
+  LINK_MARKERS: "リンクマーカー",
+  ARCHETYPE: "アーキタイプ",
+  GENESYS: "Genesys",
+  CARD_ID: "カードID",
+  CARD_TEXT: "カードテキスト",
+  PENDULUM_EFFECT: "ペンデュラム効果",
+
+  DRAW_AGAIN: "🔄",
+  DRAW_ONE: "➕",
+  CLOSE: "❌",
+  STARTING_HAND: "✋ 初期手札",
+  CARDS_FROM: "～のカード",
+  INVALID_FILE: ".ydk形式の有効なファイルである必要があります。",
+  NEED_5_CARDS: "⚠️ メインデッキには少なくとも5枚のカードが必要です。",
+  NO_ACCESS: "❌ これらのボタンは使用できません。",
+  NO_CARDS_LEFT: "⚠️ デッキに残りのカードがありません。",
+  ERROR_FILE: "❌ .ydkファイルの読み込み中にエラーが発生しました。",
+
+  DECK_COMPLETE: "デッキ全体",
+  MAIN_DECK: "メインデッキ",
+  EXTRA_DECK: "エクストラデッキ",
+  SIDE_DECK: "サイドデッキ",
+  BUTTON_COMPLETE: "全体",
+  BUTTON_MAIN: "メイン",
+  BUTTON_EXTRA: "エクストラ",
+  BUTTON_SIDE: "サイド",
+
+  GEN_FAIL: "デッキ画像の生成に失敗しました。",
+
+  REQUESTED_BY: "{user} によるリクエスト",
+};

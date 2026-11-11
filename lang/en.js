@@ -1,0 +1,56 @@
+module.exports = {
+
+  ART_NOT_FOUND: "❌ Card not found.",
+  ART_NO_IMAGES: "❌ This card has no available arts.",
+  ART_ERROR: "❌ An unexpected error occurred.",
+  ART_TITLE: "Art",
+  ART_ALL_BUTTON: "All",
+  
+  ARCHETYPE_LIST_FAIL: "❌ Failed to retrieve the archetype list.",
+  ARCHETYPE_NOT_FOUND: "❌ No archetype found matching: {input}.",
+  ARCHETYPE_NO_CARDS: "❌ There are no cards available for this archetype.",
+  ARCHETYPE_TITLE: "Archetype: {name}",
+  
+  CARD_NOT_FOUND: "❌ No card found with the name '{input}'.",
+  CARD_NOT_FOUND_RANDOM: "❌ Could not fetch a random card.",
+
+  NO_DESCRIPTION: "No description.",
+  TYPE: "Type",
+  LEVEL: "Level",
+  LINK: "Link",
+  RANK: "Rank",
+  ATTRIBUTE: "Attribute",
+  ATK: "Atk",
+  DEF: "Def",
+  PENDULUM_SCALE: "Pendulum Scale",
+  LINK_MARKERS: "Link Markers",
+  ARCHETYPE: "Archetype",
+  GENESYS: "Genesys",
+  CARD_ID: "Card ID",
+  CARD_TEXT: "Card Text",
+  PENDULUM_EFFECT: "Pendulum Effect",
+
+  DRAW_AGAIN: "🔄",
+  DRAW_ONE: "➕",
+  CLOSE: "❌",
+  STARTING_HAND: "✋ Starting Hand",
+  CARDS_FROM: "Cards from",
+  INVALID_FILE: "The file must be a valid .ydk.",
+  NEED_5_CARDS: "⚠️ The Main Deck must have at least 5 cards.",
+  NO_ACCESS: "❌ You cannot use these buttons.",
+  NO_CARDS_LEFT: "⚠️ There are no cards remaining in the deck.",
+  ERROR_FILE: "❌ There was an error reading the .ydk file.",
+
+  DECK_COMPLETE: "Complete Deck",
+  MAIN_DECK: "Main Deck",
+  EXTRA_DECK: "Extra Deck",
+  SIDE_DECK: "Side Deck",
+  BUTTON_COMPLETE: "Complete Deck",
+  BUTTON_MAIN: "Main",
+  BUTTON_EXTRA: "Extra",
+  BUTTON_SIDE: "Side",
+
+  GEN_FAIL: "Failed to generate the deck image.",
+
+  REQUESTED_BY: "Requested by {user}",
+};

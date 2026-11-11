@@ -1,0 +1,56 @@
+module.exports = {
+
+  ART_NOT_FOUND: "❌ Karte nicht gefunden.",
+  ART_NO_IMAGES: "❌ Diese Karte hat keine verfügbaren Bilder.",
+  ART_ERROR: "❌ Ein unerwarteter Fehler ist aufgetreten.",
+  ART_TITLE: "Artwork",
+  ART_ALL_BUTTON: "Alle",
+  
+  ARCHETYPE_LIST_FAIL: "❌ Die Archetypenliste konnte nicht abgerufen werden.",
+  ARCHETYPE_NOT_FOUND: "❌ Kein Archetyp gefunden für: {input}.",
+  ARCHETYPE_NO_CARDS: "❌ Für diesen Archetyp sind keine Karten verfügbar.",
+  ARCHETYPE_TITLE: "Archetyp: {name}",
+  
+  CARD_NOT_FOUND: "❌ Keine Karte mit dem Namen '{input}' gefunden.",
+  CARD_NOT_FOUND_RANDOM: "❌ Zufällige Karte konnte nicht geladen werden.",
+
+  NO_DESCRIPTION: "Keine Beschreibung.",
+  TYPE: "Typ",
+  LEVEL: "Stufe",
+  LINK: "Link",
+  RANK: "Rang",
+  ATTRIBUTE: "Attribut",
+  ATK: "ATK",
+  DEF: "DEF",
+  PENDULUM_SCALE: "Pendelskala",
+  LINK_MARKERS: "Link-Markierungen",
+  ARCHETYPE: "Archetyp",
+  GENESYS: "Genesys",
+  CARD_ID: "Karten-ID",
+  CARD_TEXT: "Kartentext",
+  PENDULUM_EFFECT: "Pendeleffekt",
+
+  DRAW_AGAIN: "🔄",
+  DRAW_ONE: "➕",
+  CLOSE: "❌",
+  STARTING_HAND: "✋ Starthand",
+  CARDS_FROM: "Karten aus",
+  INVALID_FILE: "Die Datei muss eine gültige .ydk-Datei sein.",
+  NEED_5_CARDS: "⚠️ Das Main Deck muss mindestens 5 Karten enthalten.",
+  NO_ACCESS: "❌ Du darfst diese Buttons nicht verwenden.",
+  NO_CARDS_LEFT: "⚠️ Es sind keine Karten mehr im Deck.",
+  ERROR_FILE: "❌ Fehler beim Lesen der .ydk-Datei.",
+
+  DECK_COMPLETE: "Komplettes Deck",
+  MAIN_DECK: "Main Deck",
+  EXTRA_DECK: "Extra Deck",
+  SIDE_DECK: "Side Deck",
+  BUTTON_COMPLETE: "Komplettes Deck",
+  BUTTON_MAIN: "Main",
+  BUTTON_EXTRA: "Extra",
+  BUTTON_SIDE: "Side",
+
+  GEN_FAIL: "Das Deckbild konnte nicht generiert werden.",
+
+  REQUESTED_BY: "Angefordert von {user}",
+};

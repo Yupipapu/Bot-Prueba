@@ -1,0 +1,56 @@
+module.exports = {
+
+  ART_NOT_FOUND: "❌ Carta non trovata.",
+  ART_NO_IMAGES: "❌ Questa carta non ha immagini disponibili.",
+  ART_ERROR: "❌ Si è verificato un errore imprevisto.",
+  ART_TITLE: "Illustrazione",
+  ART_ALL_BUTTON: "Tutte",
+  
+  ARCHETYPE_LIST_FAIL: "❌ Impossibile recuperare la lista degli archetipi.",
+  ARCHETYPE_NOT_FOUND: "❌ Nessun archetipo trovato per: {input}.",
+  ARCHETYPE_NO_CARDS: "❌ Non ci sono carte disponibili per questo archetipo.",
+  ARCHETYPE_TITLE: "Archetipo: {name}",
+  
+  CARD_NOT_FOUND: "❌ Nessuna carta trovata con il nome '{input}'.",
+  CARD_NOT_FOUND_RANDOM: "❌ Impossibile ottenere una carta casuale.",
+
+  NO_DESCRIPTION: "Nessuna descrizione.",
+  TYPE: "Tipo",
+  LEVEL: "Livello",
+  LINK: "Link",
+  RANK: "Rango",
+  ATTRIBUTE: "Attributo",
+  ATK: "ATK",
+  DEF: "DEF",
+  PENDULUM_SCALE: "Scala Pendulum",
+  LINK_MARKERS: "Indicatori Link",
+  ARCHETYPE: "Archetipo",
+  GENESYS: "Genesys",
+  CARD_ID: "ID Carta",
+  CARD_TEXT: "Testo della carta",
+  PENDULUM_EFFECT: "Effetto Pendulum",
+
+  DRAW_AGAIN: "🔄",
+  DRAW_ONE: "➕",
+  CLOSE: "❌",
+  STARTING_HAND: "✋ Mano iniziale",
+  CARDS_FROM: "Carte da",
+  INVALID_FILE: "Il file deve essere un .ydk valido.",
+  NEED_5_CARDS: "⚠️ Il Main Deck deve contenere almeno 5 carte.",
+  NO_ACCESS: "❌ Non puoi usare questi pulsanti.",
+  NO_CARDS_LEFT: "⚠️ Non ci sono più carte nel deck.",
+  ERROR_FILE: "❌ Errore durante la lettura del file .ydk.",
+
+  DECK_COMPLETE: "Deck completo",
+  MAIN_DECK: "Main Deck",
+  EXTRA_DECK: "Extra Deck",
+  SIDE_DECK: "Side Deck",
+  BUTTON_COMPLETE: "Deck completo",
+  BUTTON_MAIN: "Main",
+  BUTTON_EXTRA: "Extra",
+  BUTTON_SIDE: "Side",
+
+  GEN_FAIL: "Impossibile generare l'immagine del deck.",
+
+  REQUESTED_BY: "Richiesto da {user}",
+};
